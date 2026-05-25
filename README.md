@@ -1,3 +1,4 @@
+<img width="1727" height="1097" alt="5be7d83fd15b99d986b2c2a04dadf416" src="https://github.com/user-attachments/assets/356de95c-a1a9-4cac-83ed-43a9c1adfe7d" />
 # Claude Desktop (Tauri Edition) v2.0.0
 
 <p align="center">
